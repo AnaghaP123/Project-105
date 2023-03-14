@@ -1,0 +1,35 @@
+#header
+{
+    color:rgb(68, 44, 202);
+    background-color:rgb(187, 209, 233);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.items
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(31, 105, 243);
+    font-size: 19px;
+}
+hr
+{
+    border: 1.5px dashed rgb(126, 95, 9);
+}
+button
+{
+    background-color:rgb(202, 223, 202);
+    color:rgb(134, 105, 24);
+    border-style:ridge;
+    border-color:rgb(216, 194, 166);
+    border-width:3px;
+}
+body
+{
+    background-color: rgb(153, 228, 228);
+}
+.end_info
+{
+    background-color:rgb(173, 215, 231);
+    border-style:double;
+    border-width: 2px;
+    border-color:rgb(189, 164, 119);
+}
